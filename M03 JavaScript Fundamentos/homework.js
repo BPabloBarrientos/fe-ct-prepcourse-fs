@@ -79,7 +79,7 @@ function devolverString(string) {
     // Retorna true si los dos strings tienen la misma longitud.
     // De lo contrario, retorna false.
     // Tu código:
-    if (str1 && str2 == 6) {
+    if (str1 == 6 && str2 == 6) {
        return true;
     } else {
        return false;
